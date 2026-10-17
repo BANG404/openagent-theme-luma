@@ -1,0 +1,15 @@
+{
+  "title": "Luma",
+  "description": "Lucide / Inter",
+  "style": "luma",
+  "baseColor": "neutral",
+  "theme": "neutral",
+  "chartColor": "neutral",
+  "iconLibrary": "lucide",
+  "font": "inter",
+  "fontHeading": "inherit",
+  "menuAccent": "subtle",
+  "menuColor": "default",
+  "radius": "default",
+  "rtl": false
+}
